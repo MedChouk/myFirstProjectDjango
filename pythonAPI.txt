@@ -1,0 +1,33 @@
+python --version
+pip --version
+pip list
+
+C:\Users\Chouk\Desktop
+λ pip install django
+
+pip list
+mkdir myProject
+ls
+cd  myProject
+
+python -m venv venv
+venv\scripts\activate
+
+
+C:\Users\Chouk\Desktop\myProject
+(venv) λ pip install django
+(venv) λ pip install djangorestframework
+(venv) λ django-admin startproject my_awesome_django_project
+(venv) λ cd my_awesome_django_project
+(venv) λ django-admin startapp my_awesome_api
+(venv) λ ls
+(venv) λ dir
+
+C:\Users\Chouk\Desktop\myProject\my_awesome_django_project
+(venv) λ python manage.py runserver
+
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+
+2 éme project : https://blog.logrocket.com/django-rest-framework-create-api/
