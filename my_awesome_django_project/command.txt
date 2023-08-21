@@ -3,6 +3,7 @@ venv\scripts\activate
 
 (venv) λ pip install django djangorestframework
 (venv) λ python -m pip freeze > requirements.txt
+(venv) λ python -m pip install -r requirements.txt
 
 python manage.py makemigrations
 python manage.py migrate
