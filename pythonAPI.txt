@@ -30,4 +30,5 @@ python manage.py makemigrations
 python manage.py migrate
 python manage.py createsuperuser
 
-2 éme project : https://blog.logrocket.com/django-rest-framework-create-api/
+2 éme projet : https://blog.logrocket.com/django-rest-framework-create-api/
+3 éme projet : https://www.youtube.com/watch?v=i5JykvxUk_A&ab_channel=CalebCurry
