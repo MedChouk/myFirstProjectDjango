@@ -12,3 +12,8 @@ python manage.py createsuperuser
 cd projectName
 (venv) λ python manage.py runserver
 
+how to delete database :
+
+rm db.sqlite3
+python manage.py makemigrations
+python manage.py migrate
